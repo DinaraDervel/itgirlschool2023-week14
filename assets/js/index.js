@@ -43,8 +43,8 @@ const arrayOfDirectors = [
     },
 ];
 const listOfDirectors = document.querySelector(".list");
-const arrayOfBestFilms = [];
 const listOfBestFilms = document.querySelector(".films");
+const arrayOfBestFilms = [];
 let i = 0;
 
 
