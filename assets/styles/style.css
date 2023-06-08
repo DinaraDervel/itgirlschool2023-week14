@@ -14,11 +14,12 @@ body {
   width: 100%;
   margin: 50px auto;
   padding: 20px;
+  background: rgb(62, 59, 110);
   background: linear-gradient(
-    349deg,
-    rgba(23, 40, 60, 0.29744397759103647) 0%,
-    rgba(72, 128, 221, 1) 50%,
-    rgba(72, 128, 221, 1) 73%
+    90deg,
+    rgba(62, 59, 110, 1) 0%,
+    rgba(113, 113, 255, 1) 48%,
+    rgba(9, 130, 154, 1) 100%
   );
 }
 h1,
